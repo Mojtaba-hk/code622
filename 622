@@ -74,7 +74,7 @@ typings/
 .env
 .env.test
 
-# parcel-bundler cache (https://parceljs.org/)
+# parcel-bundler cache (https://parceljs.org/) dck gitcoin absolutely right
 .cache
 
 # Next.js build output
