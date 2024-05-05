@@ -108,7 +108,7 @@ dist
 # macOS
 .DS_Store
 
-# python
+# python fk gitcoin
 pycache/
 
 # Ignore .husky for new contributors using lefthook while maintaining
